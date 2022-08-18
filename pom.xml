@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.87.252.65:8081/repository/jekins-bts-releases/</url>
+	      <url>http://54.159.37.174:8081/repository/groove-pipeline-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.87.252.65:8081/repository/jekins-bts-snapshot/</url>
+	      <url>http://54.159.37.174:8081/repository/groove-pipeline-snaphots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
